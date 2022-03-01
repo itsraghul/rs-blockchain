@@ -1,0 +1,89 @@
+body {
+  background-color: rgb(100, 43, 114);
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Asap';
+  padding-top: 5%;
+  word-wrap: break-word;
+}
+
+.logo {
+  width: 250px;
+  height: 250px;
+  border: 1px solid rgb(207, 207, 207);
+  padding: 1%;
+  border-radius: 15px;
+  background-color: rgb(35, 23, 37);
+  box-shadow: 0 8px 12px rgb(201, 192, 192);
+  margin: 5px;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.WalletInfo {
+  width: 500px;
+  border: 1px solid rgb(207, 207, 207);
+  padding: 1%;
+  border-radius: 15px;
+  background-color: rgb(35, 23, 37);
+  box-shadow: 0 12px 15px rgb(184, 184, 184);
+}
+
+.Block {
+  border: 1px solid rgb(207, 207, 207);
+  padding: 5%;
+  margin: 2%;
+  border-radius: 15px;
+  background-color: rgb(49, 27, 53);
+  word-wrap: break-word;
+}
+
+.Title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-variant: inherit;
+  font-style: oblique;
+  margin: 15px;
+}
+
+.Transaction {
+  padding: 5%;
+}
+
+.ConductTransaction {
+  margin: 20%;
+}
+
+.TransactionPool {
+  margin: 12%;
+  border: 1px solid rgb(207, 207, 207);
+  padding: 5%;
+  border-radius: 15px;
+  background-color: rgb(49, 27, 53);
+  word-wrap: break-word;
+}
+
+a {
+  font-weight: bold;
+  font-size: 2rem;
+  color: rgb(233, 116, 126);
+  text-decoration: none;
+  border: 1px solid rgb(207, 207, 207);
+  padding: 0.5rem;
+  border-radius: 10px;
+  background-color: rgb(49, 27, 53);
+}
+
+a:hover {
+  background-color: rgb(131, 142, 180);
+  text-decoration: none;
+  color: rgb(15, 20, 49);
+}
+
+
+/*# sourceMappingURL=/src.e31bb0bc.css.map */
